@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ödev-1</title>
+</head>
+<body>
+    
+</body>
+</html>
+<h1>Selçuk ERGÜL</h1>
+<h2>Hakkımda</h2>
+<p>Ben Selçuk ERGÜL, Denizli'de yaşıyorum. Pamukkale Üniversitesi Denizli Teknik Bilimler MYO </p>
+<p>Bilgisayar Programcılığı 2. Sınıf öğrencisiyim. Yazılımı ve kodlamayı çok seviyorum</p>
+<h2>Eğitimlerim</h2>
+<ul>Mezun olduklarım</ul>
+<!--Diploma alarak tamamen bitirdiğim okulları burada listeliyorum-->
+<li>İstanbul Üniversitesi Sağlık Hizmetleri MYO Tıbbi Dokümantasyon ve Sekreterlik Programı</li>
+<li>Bakü Devlet Üniversitesi Fen-Edebiyat Fakültesi Uygulamalı Matematik Programı</li>
+<li>Hoca Ahmet Yesevi Uluslararası Türk-Kazak Üniversitesi Mühendislik Fakültesi Yönetim Bilişim Sistemleri Yüksek Lisans Programı</li>
+<li>American University of Leadership Sosyal Bilimler Enstitüsü İşletme Yönetimi Doktora Programı</li>
+<ul>Devam Ettiklerim</ul>
+<!--Diploma almadığım hâlen devam ettiğim okulları burada listeliyorum-->
+<li>Pamukkale Üniversitesi Denizli Teknik Bilimler MYO Bilgisayar Programcılığı</li>
